@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/vieme/static/css/main.de63da78.css",
+    "main.js": "/vieme/static/js/main.4a489fe3.js",
+    "static/js/787.2d02f48d.chunk.js": "/vieme/static/js/787.2d02f48d.chunk.js",
+    "index.html": "/vieme/index.html",
+    "main.de63da78.css.map": "/vieme/static/css/main.de63da78.css.map",
+    "main.4a489fe3.js.map": "/vieme/static/js/main.4a489fe3.js.map",
+    "787.2d02f48d.chunk.js.map": "/vieme/static/js/787.2d02f48d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de63da78.css",
+    "static/js/main.4a489fe3.js"
+  ]
+}
